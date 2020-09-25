@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  Sample
+
+  Created by Sergey Skurzhanskiy on 24.09.2020.
+  
+*/
+
+"error" = "Что-то пошло не так";
+"repeat_request" = "Повторить запрос";
